@@ -32,22 +32,9 @@ body {
     border-radius: 0.5em; /* Comment out if you prefer squarish samples */
     margin-right: 0.5em;
 }
+
 img {
     max-width: 100%; height: auto; and display: block;
-}
-
-.carbonad {
-    display:block;
-    background:#fdfdfd;
-    background-image:-moz-linear-gradient(top,#f8f8f8,#fdfdfd);
-    background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#f8f8f8),color-stop(1,#fdfdfd));
-    border:1px solid #d5d5d5;
-    font-family:LucidaGrande,Arial,Helvetica,sans-serif;
-    font-size:11px;
-    height:118px;
-    line-height:15px;
-    overflow:hidden;
-    width:300px
 }
 
 .carbonad-img {
@@ -57,29 +44,4 @@ img {
     height:60%;
     margin:3px;
     width:50%;
-}
-
-.carbonad-text {
-    display:inline;
-    float:left;
-    width:142px;
-    padding-top:13px
-}
-
-.carbonad-text a {
-    color:#000;
-    text-decoration:none;
-    text-transform:none;
-}
-
-.carbonad-tag {
-    float:left;
-    margin-top:9px;
-    text-align:center;
-    width:142px;
-    color:#999
-}
-.carbonad-tag a {
-    color:#999;
-    text-decoration:none
 }
