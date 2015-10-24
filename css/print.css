@@ -2,11 +2,3 @@ img {
     float: right;
     max-width: 100%; height: auto; and display: block;
 }
-
-@media print {
-    img {
-        float: right;
-        max-width: 100%; height: auto; and display: block;
-    }
-
-}
